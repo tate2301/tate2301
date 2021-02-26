@@ -3,13 +3,13 @@
 <br/>
 
 
-<a href="https://twitter.com/sakigo_09">
+<a href="https://twitter.com/kamfeskaya">
 <img align="left" alt="Tatenda Christopher Chinyamakobvu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tate2301/">
 <img align="left" alt="Tatenda Christopher Chinyamakobvu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/sakigo_09/">
+<a href="https://www.instagram.com/tatendachristophr/">
 <img align="left" alt="Tatenda Christopher Chinyamakobvu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -25,11 +25,11 @@ Hi,I'm Tatenda Christopher Chinyamakobvu🙌, a Software Developer, Web Develope
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Gatsby.
+- 🌱 Software Developer @Tachom.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- 📝[Portfolio](https://tachom.co.zw/team/tate2301)
+- 📝[Portfolio](https://devtachom.com)
 - ✨ I am social.[Instagram](https://www.instagram.com/tatendachristophr/)
 
 **Languages and Tools:**
